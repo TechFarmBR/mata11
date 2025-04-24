@@ -1,3 +1,8 @@
+{/* Rastreadores */}
+<Head>
+  <script src="/MATA11_TRACKING_SCRIPTS_FINAL.html" />
+</Head>
+
 import './globals.css'
 
 export const metadata = {
