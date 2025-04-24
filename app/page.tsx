@@ -1,3 +1,15 @@
+import FAQ from '../components/FAQ';
+
+export default function Home() {
+  return (
+    <>
+      <Hero />
+      <CTA />
+      <FAQ />
+    </>
+  );
+}
+
 import CTA from '../components/CTA';
 
 export default function Home() {
