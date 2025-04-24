@@ -1,3 +1,16 @@
+import IndicadoresAmbientais from '../components/IndicadoresAmbientais';
+
+export default function Home() {
+  return (
+    <>
+      <Hero />
+      <IndicadoresAmbientais />
+      <CTA />
+      <FAQ />
+    </>
+  );
+}
+
 import FAQ from '../components/FAQ';
 
 export default function Home() {
