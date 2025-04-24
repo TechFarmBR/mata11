@@ -37,6 +37,16 @@ O **MATA11** é um token representando frações lastreadas em hectares preserva
 - 🔐 `MATA11_SECURITY_TOKEN_REPORT.pdf`
 - 📝 `MATA11_FORMULARIO_CAPTACAO.pdf`
 
+
+## 📎 Documentos Oficiais
+
+Os documentos abaixo estão disponíveis na pasta [`/docs`](./docs):
+
+- 📄 [Term Sheet - MATA11](./docs/docs_MATA11_TERMSHEET_vFINAL.pdf)
+- 📘 [Whitepaper Expandido](./docs/docs_MATA11_WHITEPAPER_EXPANDIDO.pdf)
+- 🔐 [Relatório Simulado de Security Token](./docs/docs_MATA11_SECURITY_TOKEN_REPORT.pdf)
+- 📝 [Formulário de Captação de Investidores](./docs/docs_MATA11_FORMULARIO_CAPTACAO.pdf)
+
 ---
 
 ## 🛠 Tecnologias
