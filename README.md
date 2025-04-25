@@ -50,6 +50,15 @@ Todos os documentos abaixo estão disponíveis publicamente para download e cons
 | 📝 Formulário de Captação de Investidores        | [Baixar PDF](https://mata11.vercel.app/docs_MATA11_FORMULARIO_CAPTACAO.pdf)          |
 | 💻 Roteiro de Scripts de Rastreamento (HTML)     | [Ver Online](https://mata11.vercel.app/MATA11_TRACKING_SCRIPTS_FINAL.html)           |
 
+## 📘 Documentação Técnica Avançada
+
+Abaixo estão documentos estratégicos que complementam o projeto MATA11:
+
+| Documento                              | Link de Acesso                                     |
+|----------------------------------------|----------------------------------------------------|
+| 🔄 Token Flow                          | [Abrir](docs/TOKEN_FLOW.md)                        |
+| 🔐 Smart Contract Audit (prévia)      | [Abrir](docs/SMART_CONTRACT_AUDIT.md)              |
+| 📘 Investor FAQ                        | [Abrir](docs/INVESTOR_FAQ.md)                      |
 
 ---
 
