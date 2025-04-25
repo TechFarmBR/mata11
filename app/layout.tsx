@@ -1,4 +1,4 @@
-
+import './globals.css'
 export const metadata = {
   title: "MATA11 - TechFarm",
   description: "Token Verde com lastro ambiental e rentabilidade garantida",
