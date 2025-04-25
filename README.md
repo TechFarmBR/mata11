@@ -38,14 +38,18 @@ O **MATA11** é um token representando frações lastreadas em hectares preserva
 - 📝 `MATA11_FORMULARIO_CAPTACAO.pdf`
 
 
-## 📎 Documentos Oficiais
+## 📁 Documentos Oficiais do Projeto MATA11
 
-Os documentos abaixo estão disponíveis na pasta [`/docs`](./docs):
+Todos os documentos abaixo estão disponíveis publicamente para download e consulta:
 
-- 📄 [Term Sheet - MATA11](./docs/docs_MATA11_TERMSHEET_vFINAL.pdf)
-- 📘 [Whitepaper Expandido](./docs/docs_MATA11_WHITEPAPER_EXPANDIDO.pdf)
-- 🔐 [Relatório Simulado de Security Token](./docs/docs_MATA11_SECURITY_TOKEN_REPORT.pdf)
-- 📝 [Formulário de Captação de Investidores](./docs/docs_MATA11_FORMULARIO_CAPTACAO.pdf)
+| Documento                                         | Link Direto (Vercel)                                                                 |
+|--------------------------------------------------|---------------------------------------------------------------------------------------|
+| 📄 Term Sheet - MATA11                           | [Baixar PDF](https://mata11.vercel.app/docs_MATA11_TERMSHEET_vFINAL.pdf)             |
+| 📘 Whitepaper Expandido                          | [Baixar PDF](https://mata11.vercel.app/docs_MATA11_WHITEPAPER_EXPANDIDO.pdf)         |
+| 🔐 Relatório Simulado de Security Token          | [Baixar PDF](https://mata11.vercel.app/docs_MATA11_SECURITY_TOKEN_REPORT.pdf)        |
+| 📝 Formulário de Captação de Investidores        | [Baixar PDF](https://mata11.vercel.app/docs_MATA11_FORMULARIO_CAPTACAO.pdf)          |
+| 💻 Roteiro de Scripts de Rastreamento (HTML)     | [Ver Online](https://mata11.vercel.app/MATA11_TRACKING_SCRIPTS_FINAL.html)           |
+
 
 ---
 
